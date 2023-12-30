@@ -1,0 +1,8 @@
+python=3.12
+pandas
+matplotlib
+tqdm
+pytorch
+seaborn
+scikit-learn
+requests
